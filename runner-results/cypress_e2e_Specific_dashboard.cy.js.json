@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 2,
+  "passes": 2,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-07-03T21:29:11.359Z",
+  "duration": 141404,
+  "file": "cypress\\e2e\\Specific\\dashboard.cy.js"
+}

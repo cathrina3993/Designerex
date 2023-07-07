@@ -1,0 +1,10 @@
+{
+  "suites": 2,
+  "tests": 5,
+  "passes": 5,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-07-03T21:29:40.319Z",
+  "duration": 503310,
+  "file": "cypress\\e2e\\Specific\\Lending.cy.js"
+}

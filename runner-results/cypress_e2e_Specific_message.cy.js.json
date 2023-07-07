@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 4,
+  "passes": 4,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-07-03T21:35:33.249Z",
+  "duration": 218988,
+  "file": "cypress\\e2e\\Specific\\message.cy.js"
+}

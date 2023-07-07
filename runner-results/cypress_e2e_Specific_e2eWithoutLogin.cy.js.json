@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 9,
+  "passes": 9,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-07-03T21:29:24.319Z",
+  "duration": 408293,
+  "file": "cypress\\e2e\\Specific\\e2eWithoutLogin.cy.js"
+}
